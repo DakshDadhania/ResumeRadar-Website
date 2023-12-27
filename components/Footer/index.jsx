@@ -29,7 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Stay safe online and keep your personal information secure with PhishTrap.
+                Find the Perfect Match with ResumeRadar: The AI-Powered Resume Screening and Matching Agent
                 </p>
                 {/* <div className="flex items-center">
                   <a

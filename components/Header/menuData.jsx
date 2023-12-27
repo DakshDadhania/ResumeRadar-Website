@@ -19,48 +19,24 @@ const menuData = [
   },
   {
     id: 4,
-    title: "Predict",
-    path: "/predict",
+    title: "Analyse",
+    path: "/analyse",
     newTab: false,
   },
   {
     id: 5,
-    title: "WebScrape",
-    path: "/scraper",
+    title: "Summarise",
+    path: "/summarise",
     newTab: false,
   },
   {
     id: 6,
-    title: "FileUpload",
-    path: "/fileupload",
+    title: "Compare",
+    path: "/compare",
     newTab: false,
   },
   {
-    id: 9,
-    title: "Phish",
-    newTab: false,
-    submenu: [
-      {
-        id: 41,
-        title: "AutoPhish",
-        path: "/autophish",
-        newTab: false,
-      },
-      {
-        id: 42,
-        title: "Phish",
-        path: "/phish",
-        newTab: false,
-      }]
-    },
-  {
-    id: 8,
-    title: "Favicon",
-    path: "/favicon",
-    newTab: false,
-  },
-  {
-    id: 9,
+    id: 7,
     title: "Pages",
     newTab: false,
     submenu: [

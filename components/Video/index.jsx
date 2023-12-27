@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are here to protect you"
-          paragraph="Stay safe online and keep your personal information secure with PhishTrap."
+          title="The AI-Powered Resume Screening and Matching Agent"
+          paragraph="Find the Perfect Match with ResumeRadar: The AI-Powered Resume Screening and Matching Agent"
           center
           mb="80px"
         />

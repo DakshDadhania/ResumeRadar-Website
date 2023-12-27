@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="One stop solution to Phishing Security."
-                paragraph="The main ‘thrust’ is to focus on the development of a robust and accurate system that can effectively detect and prevent phishing attacks.."
+                title="One stop solution to Resume analysis"
+                paragraph="The main ‘thrust’ is to focus on the development of a robust and accurate system that can effectively analyse and summarise resumes.."
                 mb="44px"
               />
 
@@ -35,14 +35,14 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="URL Analysis" />
+                    <List text="Semantic Analysis" />
                     <List text="Content Analysis" />
-                    <List text="Real-Time Detection" />
+                    <List text="Skill Mapping" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Website Analysis" />
-                    <List text="Page Ranking" />
+                    <List text="Automated Ranking" />
+                    <List text="Perfect Summaries " />
                     <List text="Machine Learning" />
                   </div>
                 </div>

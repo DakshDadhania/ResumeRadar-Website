@@ -415,7 +415,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
-                      PhishTrap
+                      ResumeRadar
                     </a>
                   </li>
                   <li>

@@ -7,7 +7,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="PhishTrap is a powerful system of browser extension and application designed to help protect you from phishing attacks"
+        description="The AI-Powered Resume Screening and Matching Agent"
       />
       <AboutSectionOne />
       <AboutSectionTwo />
